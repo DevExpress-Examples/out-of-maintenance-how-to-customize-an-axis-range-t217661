@@ -5,10 +5,6 @@
 <!-- default file list end -->
 # How to customize an axis range
 
+This example demonstrates how to use the [AxisBase.VisualRange](https://docs.devexpress.com/CoreLibraries/DevExpress.XtraCharts.AxisBase.VisualRange?p=netframework) property to define a visible range of an [axis](https://docs.devexpress.com/WindowsForms/5779/controls-and-libraries/chart-control/diagram/axes) and the [AxisBase.WholeRange](https://docs.devexpress.com/CoreLibraries/DevExpress.XtraCharts.AxisBase.WholeRange?p=netframework) property to define its whole range.
 
-<p>This example demonstrates how to use the <a href="https://documentation.devexpress.com/#CoreLibraries/DevExpressXtraChartsAxisBase_VisualRangetopic">AxisBase.VisualRange</a> property, to define a visible range of an <a href="http://larix/ReferenceBrowserMain_14_2/LoadItem.aspx?Member=D%3a5779&Template=CustomDocumentTopic">axis</a> and the <a href="https://documentation.devexpress.com/#CoreLibraries/DevExpressXtraChartsAxisBase_WholeRangetopic">AxisBase.WholeRange</a> property, to define its whole range.</p>
-<p>For more information on axis range, refer to <a href="http://larix/ReferenceBrowserMain_14_2/LoadItem.aspx?Member=D%3a5803&Template=CustomDocumentTopic">Visual Ranges and Whole Ranges</a>.</p>
-
-<br/>
-
-
+For more information on axis range, refer to the following help topic: [Axis Ranges](https://docs.devexpress.com/WindowsForms/5803/controls-and-libraries/chart-control/axis-ranges?p=netframework).
